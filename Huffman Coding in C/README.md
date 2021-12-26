@@ -5,7 +5,7 @@ DISCLAIMER:
 ----------
 THIS IS A MODIFIED VERSION OF AN ASSIGNMENT DONE FOR CSE13S IN THE FALL 2021 QUARTER AT UC SANTA CRUZ. IF YOU ARE A CSE13S STUDENT DO NOT VIEW THE FOLLOWING SOURCE CODE!
 ---------
-#Description
+Description
 ---------
 This project runs a Huffman compression algorithm. A Huffman compression takes a file and compresses it down significantly yet still retains the same information. There are two main forms that a Huffman compression can take: an encoder or a decoder. The encoding algorithm reads in a file and builds a tree depending on the frequencies of each character. Once the tree is built, the program traverses through the tree and develops a code for each character in the tree. The code generated can be used by the decoder to understand the message. The decoder reads the code generated and deciphers its meaning. A zero would prompt the decoder to move traverse down the left of the tree and a one would cause the decoder to move to the right of the tree. By continuing this process until the end of the instructions, the message will be successfully deciphered.
 
