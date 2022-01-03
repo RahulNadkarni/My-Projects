@@ -20,4 +20,3 @@ To run the C programs, make sure that the clang compiler is installed. The proje
 Assembly Project
 -----------
 The assembly project currently in the repository should be run using the MARS(MIPS Assembly Simulator).
-
