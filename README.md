@@ -7,7 +7,8 @@ If you wish to see the source code and the subsequent Unity Project for 3DCampus
 
 3DCampus AR
 ----------
-3DCampus AR is an augmented reality based navigation app I developed in high school to assist students and parents in navigating my high school campus. There are two modes: A 2D Walkthrough Mode which allows for a gamified experience of walking through the campus and an AR mode which allows the user to find the fastest route between two buildings on campus. I used Unity as the primary development software and Blender as the primary 3D modeling software. 
+3DCampus AR is an augmented reality based navigation app I developed in high school to assist students and parents in navigating my high school campus. There are two modes: A 2D Walkthrough Mode which allows for a gamified experience of walking through the campus and an AR mode which allows the user to find the fastest route between two buildings on campus. I used Unity as the primary development software and Blender as the primary 3D modeling software. I used C# to code the project as well. 
+Tools Used: Unity, Blender, Photoshop, ARKit
 
 Python Projects
 ------------
