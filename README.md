@@ -1,6 +1,6 @@
 # My-Projects 
 
-Hello! My name is Rahul Nadkarni and I am currently a second year junior at UC Santa Cruz majoring in Computer Engineering. These projects exhibit my versatilie ability in programming. I am fluent in Python, C, Assembly Language, and C#/Unity. Each of the projects in the repository represent my ability in each one of these programming languages. Although 3DCampusAR, my C# and Unity project, is not shown in my repository, if you wish to see the completed project, visit 3DCampus AR on the App Store:
+Hello! My name is Rahul Nadkarni and I am currently a third year undergraduate student at UC Santa Cruz majoring in Computer Engineering. These projects exhibit my versatilie ability in programming. I am fluent in Python, C, Assembly Language, and C#/Unity. Each of the projects in the repository represent my ability in each one of these programming languages. Although 3DCampusAR, my C# and Unity project, is not shown in my repository, if you wish to see the completed project, visit 3DCampus AR on the App Store:
 https://apps.apple.com/us/app/3dcampus-ar/id1474046485 
 
 If you wish to see the source code and the subsequent Unity Project for 3DCampusAR, contact me at rnadkarni3@gmail.com.   
