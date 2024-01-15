@@ -1,6 +1,6 @@
 
 # Description
-These 3 projects were some of the projects I first did when I started my journey into Artificial Intelligence in my freshman year. I recollect 
+These 4 projects were some of the projects I first did when I started my journey into Artificial Intelligence in my freshman year. I recollect 
 learning about these topics through Santa Cruz Artificial Intelligence, and through YouTube videos. I mainly used these projects to learn more about
 SVMs, Linear Regression, and Neural Networks to explore their multifaceted applications. In recent years, I have repurposed these to use as instruction 
 material for Santa Cruz Artificial Intelligence for our members to learn how these models work in a more hands-on environment. While these are not the 
