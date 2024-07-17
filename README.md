@@ -1,6 +1,6 @@
 # My-Projects 
 
-Hello! My name is Rahul Nadkarni and I am currently a first year Masters student at New York University majoring in Computer Science. These projects exhibit my versatilie ability in programming since my time in High School. I am fluent in Python, C, C++, Assembly Language, Matlab, and C#/Unity. Each of the projects in the repository represent my ability in each one of these programming languages. 
+Hello! My name is Rahul Nadkarni, and I am currently a first-year Master's student at New York University, majoring in Computer Science. This repository showcases my diverse programming skills and my journey in expanding my knowledge. Many of the projects here were completed during my undergraduate studies at the University of California, Santa Cruz, with specific mentions of class projects in their respective directories. I am proficient in Python, C, C++, Assembly Language, Matlab, and C#/Unity, and each project in this repository highlights my expertise in these programming languages.
 
 
 
