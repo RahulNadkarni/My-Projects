@@ -1,6 +1,6 @@
 # My-Projects 
 
-Hello! My name is Rahul Nadkarni and I am currently a fourth year undergraduate student at UC Santa Cruz majoring in Computer Engineering. These projects exhibit my versatilie ability in programming. I am fluent in Python, C, C++, Assembly Language, and C#/Unity. Each of the projects in the repository represent my ability in each one of these programming languages. 
+Hello! My name is Rahul Nadkarni and I am currently a first year Masters student at New York University majoring in Computer Science. These projects exhibit my versatilie ability in programming since my time in High School. I am fluent in Python, C, C++, Assembly Language, Matlab, and C#/Unity. Each of the projects in the repository represent my ability in each one of these programming languages. 
 
 
 
